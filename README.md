@@ -37,7 +37,7 @@
                        조회에 따른 리뷰 정보 조회 및 페이징 구현
                        네이버 블로그 API를 이용하여 조회에 따른 블로그 조회 및 페이징 구현
 
-[![test](http://img.youtu.be/FErD_9fM9ZM/0.jpg)](https://youtu.be/FErD_9fM9ZM?t=0s)
+[![test](http://img.youtube.com/vi/FErD_9fM9ZM/0.jpg)](https://youtu.be/FErD_9fM9ZM?t=0s)
 				   
 ## 미리보기
 <iframe width="640" height="360" src="https://www.youtube.com/watch?v=FErD_9fM9ZM" frameborder="0" gesture="media" allowfullscreen=""></iframe>
