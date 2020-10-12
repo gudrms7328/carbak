@@ -1,4 +1,5 @@
 # 프로젝트 주제 : 슬기로운 차박생활
+#### 팀원 고민준, 김종훈, 이주은, 유형근
 
 <img src = "./img/main.png" width="400px" height="400px"><img src = "./img/login.png" width="400px" height="400px">
 
