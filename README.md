@@ -1,6 +1,6 @@
 # 프로젝트 주제 : 슬기로운 차박생활
-![main](./img/main.png){: width="30%" height="7%"}
-![login](./img/login.png){: width="30%" height="7%"}
+![main](./img/main.png){: width="50" height="50"}
+![login](./img/login.png){: width="50" height="50"}
 ![admin](./img/admin.png){: width="30%" height="7%"}
 ‘슬기로운 차박생활’은 코로나 시대에 사회적 거리두기를 염두에 두면서도 여행을 떠나고 싶은 이들을 대상으로, 차를 타고 멀리 떠나 아늑한 공간에서 휴식을 즐길 수 있는 ‘차박’ 야영장에 대한 정보 검색 사이트이다. 
 주요 기능으로는 야영지 검색, 사용자 리뷰 추천, 커뮤니티 기능 등이 있다.
