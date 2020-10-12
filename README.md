@@ -17,7 +17,7 @@
 - 개발 라이브러리 : Scikit-leam, Maven, JQuery, SmartEdition2
 - 사용 언어 : HTML5/CSS3, Javascript, Jquery, JAVA, Python, JSP
 - 사용 기술 : Ajax, Jquery, Mybatis, Oracle SQL
-- PORT : localhost:8030
+- PORT : jdk 14 이상 localhost:8030
 
 ## 설계의 주안점
 - 사용자가 원하는 정보를 보다 정확히 얻을 수 있도록 함
@@ -36,3 +36,6 @@
 - 야영장 상세 페이지 : 카카오 맵 데이터와 공공데이터를 활용하여 야영장 상세 정보 조회 구현
                        조회에 따른 리뷰 정보 조회 및 페이징 구현
                        네이버 블로그 API를 이용하여 조회에 따른 블로그 조회 및 페이징 구현
+					   
+## 미리보기
+<iframe width="640" height="360" src="https://youtu.be/FErD_9fM9ZM" frameborder="0" gesture="media" allowfullscreen=""></iframe>					  
