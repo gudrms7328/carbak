@@ -36,11 +36,12 @@
 - 야영장 상세 페이지 : 카카오 맵 데이터와 공공데이터를 활용하여 야영장 상세 정보 조회 구현
                        조회에 따른 리뷰 정보 조회 및 페이징 구현
                        네이버 블로그 API를 이용하여 조회에 따른 블로그 조회 및 페이징 구현
-
+					   
+<iframe width="640" height="360" src="https://youtu.be/xYby2jYTBEI?t=0s" frameborder="0" gesture="media" allowfullscreen></iframe>
 [![campsite](http://img.youtube.com/vi/xYby2jYTBEI/hqdefault.jpg)](https://youtu.be/xYby2jYTBEI?t=0s)
 [![mypage](http://img.youtube.com/vi/FErD_9fM9ZM/0.jpg)](https://youtu.be/FErD_9fM9ZM?t=0s)
 [![community](http://img.youtube.com/vi/bClbEYLnkWo/0.jpg)](https://youtu.be/bClbEYLnkWo?t=0s)
 				   
 ## 미리보기
-<iframe width="640" height="360" src="https://www.youtube.com/watch?v=FErD_9fM9ZM" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+<iframe width="640" height="360" src="https://youtu.be/xYby2jYTBEI?t=0s" frameborder="0" gesture="media" allowfullscreen></iframe>
 [![test](http://img.youtube.com/watch?v=FErD_9fM9ZM/0.jpg)](https://youtu.be/FErD_9fM9ZM?t=0s) 					  
