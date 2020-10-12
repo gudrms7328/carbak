@@ -13,6 +13,25 @@
 - 개발 환경 : Window 10
 - 개발 도구 : Oracle 11g, IntelliJ, Pycharm, Spring Framework, Flask
 - 사용 DB : OracleDB
-- 사용 언어 : HTML5/CSS3, Javascript, Jquery, JAVA, Python
+- 개발 라이브러리 : Scikit-leam, Maven, JQuery, SmartEdition2
+- 사용 언어 : HTML5/CSS3, Javascript, Jquery, JAVA, Python, JSP
 - 사용 기술 : Ajax, Jquery, Mybatis, Oracle SQL
 - PORT : localhost:8030
+
+## 설계의 주안점
+- 사용자가 원하는 정보를 보다 정확히 얻을 수 있도록 함
+- 편안하고 한눈에 들어오는UI와 편안한 마음을 가지게 하는 색상 처리
+- 사용자끼리 상호작용할 수 있는 커뮤니케이션 기능
+
+## 주요역할 및 담당
+- 슬기로운 차박생활 로고 디자인
+- 메인, 야영장 검색, 야영장 상세, 관리자 페이지 디자인 및 퍼블리싱
+- 관리자 페이지 : 회원관리(회원 조회 및 부적절한 아이디 및 비매너 회원 삭제가능) 구현
+                  커뮤니티 리뷰 사이트 게시글 삭제 권한 구현
+                  리뷰 댓글 및 대댓글 삭제 권한 구현
+- 야영장 페이지 : 카카오 맵 API를 이용하여 지도 구현
+                  검색 및 조회 내용을 통하여 야영장 정보 상세 페이지 구현
+                  커뮤니티 리뷰 조회수 순으로 조회 및 페이징 구현
+- 야영장 상세 페이지 : 카카오 맵 데이터와 공공데이터를 활용하여 야영장 상세 정보 조회 구현
+                       조회에 따른 리뷰 정보 조회 및 페이징 구현
+                       네이버 블로그 API를 이용하여 조회에 따른 블로그 조회 및 페이징 구현
