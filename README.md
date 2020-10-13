@@ -39,10 +39,16 @@
 					   
 ## 미리보기
 ###### 썸네일 클릭 시, 영상이 나옵니다
+
 - 야영장 정보 검색 기능 페이지 시연입니다.
+
 [![campsite](http://img.youtube.com/vi/xYby2jYTBEI/hqdefault.jpg)](https://youtu.be/xYby2jYTBEI?t=0s)
+
 - 회원 정보에 관한 페이지 시연입니다.
+
 [![mypage](http://img.youtube.com/vi/FErD_9fM9ZM/0.jpg)](https://youtu.be/FErD_9fM9ZM?t=0s)
+
 - 리뷰글에 관한 페이지 시연입니다.
+
 [![community](http://img.youtube.com/vi/bClbEYLnkWo/0.jpg)](https://youtu.be/bClbEYLnkWo?t=0s)
 				  
